@@ -1,0 +1,17 @@
+
+
+Cobots are also known as collaborative robots as they are designed to co-work with human beings. Traditional robots presented challenges such as collisions with workers in factory spaces. To prevent such accidents, cobots were created as a safer alternative.
+
+There are three main types of cobots:
+Hand-guiding cobots
+
+They are programmed by technicians using a hand-operated device to train the robot arms on the desired movements.
+Speed and Automation Cobots
+
+They are basically traditional industrial robots with vision systems. They have a warning and a stop zone. When a worker enters the warning zone, they automatically slow down their operation. If they proceed nearer into the stop zone, the cobot stops functioning entirely. They resume operation when both zones are free of obstructions.
+Power and Family Force Limiting Cobots
+
+They are capable of co-working with human beings but are not fitted with any vision systems, scanners, or safety barriers. Instead, they are designed with no exposed motors or sharp corners. In addition, they have collision motors that stop them when there are obstructions around them.
+Safety Monitored Stop Cobots
+
+Compared to other robots they are the least ‘human-friendly’. However, they do have safety sensors that stop and re-engage operation when they detect a human obstruction.

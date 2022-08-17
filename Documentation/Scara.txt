@@ -1,0 +1,43 @@
+
+
+SCARA robots, based on the robots’ axes of movement, are more modern compared to pick and place industrial robots. Both may serve the same function, but SCARA robots easily edge out the other resoundingly.
+
+A SCARA robot consists of a base which is connected to the robot arm in a parallel-axis layout. The rotary joints provide compliance in the XY plane. In other words, the arm of a SCARA robot can move from left to right as well as back and forth. It, however, is rigid in the Z-axis such that it can only rotate on a theta-axis.
+
+The design provides 4 degrees of freedom. Further, the arm can be folded back or outstretched. It is a feature that comes in handy depending on what length is necessary for the task it is being used for.
+
+In regard to software, SCARA robots are designed to automate tasks but under the controller’s instruction. The controller interface is easy to use and they tend to be responsive to commands.
+
+Given that they come as a ready-made solution there is little if any additional programming required.
+Pros
+
+    SCARA robots are very fast given the flexibility provided by the rotary joints that hold the arm in place
+
+    While they do not take up expansive space to execute their tasks, the arm covers a large area as it works. They can pick and place, over a considerable radius
+
+    They are highly accurate
+
+    Can handle a high payload
+
+Cons
+
+    They can only function when placed on or attached to a plane surface thereby offering limited placement flexibility
+
+    Require a dedicated controller
+
+
+Industrial Applications
+
+The pick and drop abilities of a SCARA robot make it suitable for:
+
+    Palletizing
+
+    Loading machines
+
+    Assembly functions
+
+    Laser engraving with the aid of an appropriate end-effector
+
+    Soldering
+
+

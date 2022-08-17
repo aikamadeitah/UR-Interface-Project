@@ -1,0 +1,47 @@
+
+
+The 3 axes of a Cartesian robot are all perpendicular to each other. Movements are facilitated by:
+
+    3 prismatic joints that work in sliding motion along the XYZ axes.
+
+    Linear actuators
+
+    Motors to supply power
+
+    A wrist attachment where rotation is needed
+
+They usually come in parts and require assembling by a factory’s machinery experts. While their assembly can be complex it provides a chance for customizations to be done. In fact, it is one of the reasons that make it popular. Precision, speed, and the length of strokes can be adjusted depending on the industry or application.
+
+Cartesian robots are also referred to as Gantry or rectilinear robots. They take up a cubicle shape in terms of their working area. However, one notable characteristic is that they can be mounted in different fashions when necessary. They adapt to overhead mounting as well as vertical and horizontal positions.
+Pros
+
+    They can take on a large payload
+
+    Operationally, they are quite versatile
+
+    Affordable
+
+    Can be programmed using online mode
+
+    They have good levels of accuracy
+
+Cons
+
+    Only one axis movement can happen at a time
+
+    They take up a lot of space
+
+    The installation process is generally complex
+
+Industrial Applications
+
+    Handling for plastic molding processes
+
+    Sealing tasks
+
+    3D printing
+
+    Loading and unloading
+
+    Palletizing tasks
+

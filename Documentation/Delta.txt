@@ -1,0 +1,37 @@
+
+
+Delta robots were invented by Reymond Clavel and a team of scholars at a college in France. They are also known as parallel robots.
+
+The design of a Delta robot consists of a base mounted overhead that has 3 motors that drive the arms linked to the base. The parallel arms have both prismatic and rotary joints which are not common among other robots. As a result, it can move on the X, Y axes although most users customize their robots to add extra axes. A rotation or pitch axis can both be achieved by modification so as to fulfill certain tasks.
+
+Given as Delta robots are often used for pick and place automation on conveyor systems, programming determines their effectiveness. They are also fitted with cameras which in conjunction with special software make up their vision system. The purpose of the vision system is to differentiate good and bad products during picking and sorting.
+
+Suitable end-effectors are usually attached to the arms but they require special design schemes. Any additional weight on the arms reduces the high-speed robot arm performance they are favored for. Suction cups are particularly popular with them.
+Pros
+
+    They are the fastest and even surpass SCARA on the goal-post test
+
+    Can work over a large workspace
+
+    Advanced software makes them very accurate and efficient
+
+Cons
+
+    Can only manage very light payloads
+
+    High-speed repetitive movements result in wear and tear of parts
+
+    They are expensive
+
+Industrial Applications
+
+    Flight simulators - this involves an enhanced version that uses 6 additional linear actuators and a movable base
+
+    Pharmaceutical industry
+
+    Sorting product units
+
+    Food packaging
+
+    Low-force assembly tasks
+
